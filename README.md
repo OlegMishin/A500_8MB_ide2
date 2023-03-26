@@ -18,3 +18,8 @@ FOUR layers board.
 
 ![image](https://user-images.githubusercontent.com/81614352/224554563-8b3eaf09-a01d-4ec8-a1b1-b4d80ef90930.png)
 
+Finally got pcb from production, soldered, firmware/software tested - works like a charm!
+
+![image](https://user-images.githubusercontent.com/81614352/227775923-72edef72-1a57-417a-a32f-683ab4e5c025.png)
+
+
