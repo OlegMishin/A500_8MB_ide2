@@ -9,7 +9,7 @@ Many thanks also to
 - Matt Harlum (LIV2) for the idea of self flashing of the Autoboot Flash.
 
 # CLPD: 
-In the design I use Microchip ATF1508 true 5V CPLD in 100 pin TQFP package. The source code is in verilog. Design tool - Quartus 13.0sp1.
+In the design I use Microchip ATF1508 or Altera EPM7128S - true 5V CPLD in 100 pin TQFP package. The source code is in verilog. Design tool - Quartus 13.0sp1.
 
 # PCB: 
 FOUR layers board. 
