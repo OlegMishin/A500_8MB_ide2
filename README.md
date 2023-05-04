@@ -29,7 +29,7 @@ Finally got pcb from production, soldered, firmware/software tested - works like
 
 ![image](https://user-images.githubusercontent.com/81614352/233802832-a60085dd-d15f-4e1e-9c69-fde5e32dfa1a.png)
 
-Booted Workbencj 1.3
+Booted Workbench 1.3
 
 ![image](https://user-images.githubusercontent.com/81614352/236283699-27726da8-3ded-4aaf-a3cb-83a00913ba4f.png)
 
