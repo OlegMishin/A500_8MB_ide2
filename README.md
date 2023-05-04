@@ -1,7 +1,8 @@
 # A500_8MB_ide2
-Very compact 8MB FastRAM and  BSC-AT-Bus IDE controller for Amiga 500.
-Bootable IDE, no needs in a patched scsi.device to be present in Kickstart ROM for autoboot.
-Also works with Kickstart 1.3. Able to boot WB 1.3 from HDD. 8MB RAM also detected.
+Very compact 8MB FastRAM and BSC-AT-Bus IDE controller for Amiga 500.
+- Bootable IDE, no needs in a patched scsi.device to be present in Kickstart ROM for autoboot.
+- Supports Kickstart from 1.3 and higher.
+- Able to boot WB 1.3 and higher from HDD. 8MB RAM also detected in WB 1.3.
 
 Autoconfig and IDE code based on the great SF2000 project from Jorgen Bilander:
 https://github.com/jbilander/SF2000-FW
@@ -27,5 +28,10 @@ Finally got pcb from production, soldered, firmware/software tested - works like
 ![image](https://user-images.githubusercontent.com/81614352/227775923-72edef72-1a57-417a-a32f-683ab4e5c025.png)
 
 ![image](https://user-images.githubusercontent.com/81614352/233802832-a60085dd-d15f-4e1e-9c69-fde5e32dfa1a.png)
+
+Booted Workbencj 1.3
+
+![image](https://user-images.githubusercontent.com/81614352/236283699-27726da8-3ded-4aaf-a3cb-83a00913ba4f.png)
+
 
 
