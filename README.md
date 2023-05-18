@@ -12,6 +12,8 @@ Many thanks also to
 
 Flash ROM contains BSC Oktopussy ROM and can be reflashed on-board. The flashing software tool design is progress.
 
+Works with A500. Doesn't work with CDTV due to DMAC on board (when I have a chance to test, I will update FW for CDTV).
+
 # CLPD: 
 In the design I use Microchip ATF1508 or Altera EPM7128S - true 5V CPLD in 100 pin TQFP package. 
 The source code is in verilog. Design tool - Quartus 13.0sp1.
