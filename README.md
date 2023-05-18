@@ -6,11 +6,14 @@ Very compact 8MB FastRAM and BSC-AT-Bus IDE controller for Amiga 500.
 
 Autoconfig and IDE code based on the great SF2000 project from Jorgen Bilander:
 https://github.com/jbilander/SF2000-FW
+
 Many thanks also to 
 - Matthias Heinrichs(Matze) for the great 68030TK2 project and BSC-AT-Bus controller
 - Matt Harlum (LIV2) for the idea of self flashing of the Autoboot Flash.
 
 Flash ROM contains BSC Oktopussy ROM and can be reflashed on-board. The flashing software tool design is progress.
+
+Works with A500. Doesn't work with CDTV due to DMAC on board (when I have a chance to test, I will update FW for CDTV).
 
 # CLPD: 
 In the design I use Microchip ATF1508 or Altera EPM7128S - true 5V CPLD in 100 pin TQFP package. 
