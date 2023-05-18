@@ -6,6 +6,7 @@ Very compact 8MB FastRAM and BSC-AT-Bus IDE controller for Amiga 500.
 
 Autoconfig and IDE code based on the great SF2000 project from Jorgen Bilander:
 https://github.com/jbilander/SF2000-FW
+
 Many thanks also to 
 - Matthias Heinrichs(Matze) for the great 68030TK2 project and BSC-AT-Bus controller
 - Matt Harlum (LIV2) for the idea of self flashing of the Autoboot Flash.
