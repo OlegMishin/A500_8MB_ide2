@@ -18,6 +18,10 @@ Works with A500. Doesn't work with CDTV due to DMAC on board (when I have a chan
 # CLPD: 
 In the design I use Microchip ATF1508 or Altera EPM7128S - true 5V CPLD in 100 pin TQFP package. 
 The source code is in verilog. Design tool - Quartus 13.0sp1.
+The below CPLD can be used in the project:
+
+ATF1508AS/ASV (TQFP-100) or EPM7128STC100/STI100 with speed grade up to 15ns(tested).
+Also 25ns should work(not yet tested). 
 
 # PCB: 
 FOUR layers board. 
