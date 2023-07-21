@@ -11,7 +11,7 @@ Many thanks also to
 - Matthias Heinrichs(Matze) for the great 68030TK2 project and BSC-AT-Bus controller
 - Matt Harlum (LIV2) for the idea of self flashing of the Autoboot Flash.
 
-Flash ROM contains BSC Oktopussy ROM and can be reflashed on-board. The flashing software tool design is progress.
+Flash ROM contains BSC Oktopussy ROM and can be reflashed on-board. The flashing software tool is in "software" folder.
 
 Works with A500. Doesn't work with CDTV due to DMAC on board (when I have a chance to test, I will update FW for CDTV).
 
