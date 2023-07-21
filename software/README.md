@@ -29,7 +29,7 @@ How to use.
 4. Check if the Flash is erased with "-d 0" command. It shall return all 0xFF as below.
    ![image](https://github.com/OlegMishin/A500_8MB_ide2/assets/81614352/8a90e450-5820-47e1-9794-662bcf2bbfbf)
 
-   If the Flash is not empty, erase it with "-e" command. Than check again whether erase was done.
+   If the Flash is not empty, erase it with "-e" command. Than check again with "-d" command whether erase was done.
    
 6. Write flash with "oktapussy.bin"
    ![image](https://github.com/OlegMishin/A500_8MB_ide2/assets/81614352/038f777e-6a3c-4123-9170-99901fdd40d6)
