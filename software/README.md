@@ -29,12 +29,16 @@ How to use.
 4. Check if the Flash is erased with "-d 0" command. It shall return all 0xFF as below.
    ![image](https://github.com/OlegMishin/A500_8MB_ide2/assets/81614352/8a90e450-5820-47e1-9794-662bcf2bbfbf)
 
-   If the Flash is not empty, erase it with "-e" command. Than check again with "-d" command whether erase was done.
+   If the Flash is not empty, erase it with "-e" command. Than check again with "-d 0" command whether erase was done.
    
 6. Write flash with "oktapussy.bin"
    ![image](https://github.com/OlegMishin/A500_8MB_ide2/assets/81614352/038f777e-6a3c-4123-9170-99901fdd40d6)
 
-7. Power off, set jumpers as for normal operation as marked below in red. Now it is ready to boot from HDD/CF.
+7. Check if the flash is written with "-d 0" command. The dump shall look like below.
+
+   ![image](https://github.com/OlegMishin/A500_8MB_ide2/assets/81614352/eaf6a309-bfce-4fe3-8718-47b51ddedaa9)
+
+8. Power off, set jumpers as for normal operation as marked below in red. Now it is ready to boot from HDD/CF.
 
    ![image](https://github.com/OlegMishin/A500_8MB_ide2/assets/81614352/1067bf5e-3249-46fe-bf03-36820dbbaedb)
 
