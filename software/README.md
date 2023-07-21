@@ -34,7 +34,10 @@ How to use.
 6. Write flash with "oktapussy.bin"
    ![image](https://github.com/OlegMishin/A500_8MB_ide2/assets/81614352/038f777e-6a3c-4123-9170-99901fdd40d6)
 
-7. Power off, set jumpers as for normal operation. Now it is ready to boot from HDD/CF.
+7. Power off, set jumpers as for normal operation as marked below in red. Now it is ready to boot from HDD/CF.
+
+   ![image](https://github.com/OlegMishin/A500_8MB_ide2/assets/81614352/1067bf5e-3249-46fe-bf03-36820dbbaedb)
+
 
    
    
