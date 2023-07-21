@@ -18,7 +18,7 @@ the arguments are:
 
 How to use.
 
-1. Set FP jumper as below
+1. Set JP3 (Flash Programming) jumper as below
 
    ![image](https://github.com/OlegMishin/A500_8MB_ide2/assets/81614352/8398f70f-a68f-4e5b-ae45-46594e5fe4d7)
 
