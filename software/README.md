@@ -22,7 +22,7 @@ How to use.
 
    ![image](https://github.com/OlegMishin/A500_8MB_ide2/assets/81614352/8398f70f-a68f-4e5b-ae45-46594e5fe4d7)
 
-2. Load Workbench from "A500_8MB_IDE2.adf"
+2. Load Workbench from "A500_8MB_IDE2.adf". Open  AmigaShell.
 3. Check Flash ID with "-i" command. It should return a valid ID for the Flach IC mounted.
    ![image](https://github.com/OlegMishin/A500_8MB_ide2/assets/81614352/43d48930-3dda-4279-a6ba-432a2a977721)
 
