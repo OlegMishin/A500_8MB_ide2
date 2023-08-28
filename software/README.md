@@ -7,7 +7,7 @@ As the tool created to flash only A500_8MB_IDE2 board, it has some limitations:
 - Only 32K ROM is supported
 - Start address is fixed to 0x00EE0000
 
-Usage: flashem -<argument>
+Usage: flashem -{argument}
 
 the arguments are:
 
