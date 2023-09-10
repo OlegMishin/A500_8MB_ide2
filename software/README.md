@@ -7,14 +7,22 @@ As the tool created to flash only A500_8MB_IDE2 board, it has some limitations:
 - Only 32K ROM is supported
 - Start address is fixed to 0x00EE0000
 
-Usage: flashem -<argument>
+Usage: flashem -[argument]
+
 the arguments are:
+
 -i - show Flash ID. E.g. it returns 0xBFB5 for SST39SF010A
+
 -e - erase flash.
+
 -d [shift] - dump 256 bytes Flash from [shift] address
+
 -r [filename] - read flash to 32K file [filename]
+
 -w [filename] - write file [filename] to flash
+
 -v [filename] - Compare flash with file [filename]
+
 
 How to use.
 
